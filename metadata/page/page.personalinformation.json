@@ -1,0 +1,22 @@
+{
+  "_id": "page.personalinformation",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.personalinformation--text.Fullname",
+      "_type": "text",
+      "hint": "Please enter below your name and surname",
+      "label": "What is your full name?",
+      "name": "Fullname"
+    },
+    {
+      "_id": "page.personalinformation--date.Dateofbirth",
+      "_type": "date",
+      "label": "What is your date of birth?",
+      "name": "Dateofbirth"
+    }
+  ],
+  "heading": "Enter below the personal details of the applicant",
+  "sectionHeading": "Applicant's details",
+  "url": "personalinformation"
+}

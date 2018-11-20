@@ -1,0 +1,39 @@
+{
+  "_id": "page.reasons",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.reasons--radios.reasons",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.reasons--radios.reasons--radio.perm",
+          "_type": "radio",
+          "label": "I am permanent staff/ fixed term contract",
+          "value": "perm"
+        },
+        {
+          "_id": "page.reasons--radios.reasons--radio.Contractor",
+          "_type": "radio",
+          "label": "I am a contractor",
+          "value": "Contractor"
+        },
+        {
+          "_id": "page.reasons--radios.reasons--radio.visitor",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.reasons--radios.reasons--radio.visitor--textarea.visitorss",
+            "_type": "textarea",
+            "label": "What is the reason for your visit?",
+            "name": "visitorss"
+          },
+          "label": "I am a visitor",
+          "value": "visitor"
+        }
+      ],
+      "legend": "What is the reason for requesting a security pass?",
+      "name": "reasons"
+    }
+  ],
+  "url": "reasons"
+}

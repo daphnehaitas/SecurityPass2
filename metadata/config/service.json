@@ -1,7 +1,10 @@
 {
   "_id": "service",
   "_type": "config.service",
-  "name": "Service name goes here",
+  "emailInputNameTeam": "daphne.haitas@digital.justice.gov.uk",
+  "emailSubjectUser": "Security Pass completed",
+  "emailTemplateTeam": "This is another form submitted for Security Pass",
+  "name": "Security Pass",
   "phase": "alpha",
   "phaseText": "Service phase text goes here"
 }

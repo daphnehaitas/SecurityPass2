@@ -1,0 +1,21 @@
+{
+  "_id": "page.nameofpeople",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.nameofpeople--text.nameofpeople",
+      "_type": "text",
+      "label": "Name of the person",
+      "name": "nameofpeople",
+      "repeatable": true,
+      "repeatableHeading": "What are the people you are visiting today?",
+      "repeatableLede": "Please list here the full name of all the people you will be visiting today"
+    }
+  ],
+  "show": {
+    "identifier": "reasons",
+    "operator": "is",
+    "value": "visitor"
+  },
+  "url": "nameofpeople"
+}

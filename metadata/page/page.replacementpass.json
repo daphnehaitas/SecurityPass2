@@ -1,0 +1,27 @@
+{
+  "_id": "page.replacementpass",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.replacementpass--radios.replacementpass",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.replacementpass--radios.replacementpass--radio.Yes",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "_id": "page.replacementpass--radios.replacementpass--radio.No",
+          "_type": "radio",
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "legend": "Is this a replacement pass?",
+      "name": "replacementpass"
+    }
+  ],
+  "url": "replacementpass"
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "page.thank",
+  "_type": "page.content",
+  "body": "There are three levels of vetting:\r\n                                                                                                                                                                \r\n* Counter-Terrorist Check (CTC) for people working at high risk sites or in close proximity to certain public figures (form to complete) \r\n* Security Check (SC) for people who work with SECRET information (form to complete)                                                                                                                                    \r\n* Developed Vetting (DV) for people who work with TOP SECRET information (form to complete and interview).",
+  "heading": "National security vetting level",
+  "lede": "Everyone employed in the Civil Service is subject to recruitment checks of identity, employment history, right to work and unspent criminal record (the Baseline Personnel Security Standard “BPSS”). But some especially sensitive jobs require national security vetting. This document answers typical questions about vetting.                                                                                        ## Vetting",
+  "show": {
+    "identifier": "replacementpass",
+    "operator": "is",
+    "value": "No"
+  },
+  "url": "thank"
+}

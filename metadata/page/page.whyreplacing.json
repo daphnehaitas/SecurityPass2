@@ -5,7 +5,7 @@
     {
       "_id": "page.whyreplacing--checkboxes",
       "_type": "checkboxes",
-      "hint": "Please any option that applies",
+      "hint": "Please select any option that applies",
       "items": [
         {
           "_id": "page.whyreplacing--checkboxes--checkbox.renewal",

@@ -9,7 +9,7 @@
       "name": "nameofpeople",
       "repeatable": true,
       "repeatableHeading": "Who are you visiting today?",
-      "repeatableLede": "Please list here the full name of all the people you will be visiting today"
+      "repeatableLede": "Please list below the full name of the people you are planning to visit today"
     }
   ],
   "show": {

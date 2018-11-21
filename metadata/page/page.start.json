@@ -13,7 +13,7 @@
     }
   ],
   "heading": "Security Pass application",
-  "lede": "Please use this online form to apply for a security pass and be able to enter the building of Ministry of Justice at 102 Petty France and Clive House. Please remember to remove your pass when you leave the building - you must not wear your pass outside even for short periods.",
+  "lede": "Please use this online form to apply for a security pass. This will grant you access to the building of Ministry of Justice at 102 Petty France and Clive House. Remember to remove your pass when you leave the building - you must not wear your pass outside even for short periods.",
   "steps": [
     "page.personalinformation",
     "page.workdetails",

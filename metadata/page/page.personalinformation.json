@@ -5,7 +5,7 @@
     {
       "_id": "page.personalinformation--text.Fullname",
       "_type": "text",
-      "hint": "Please enter below your name and surname",
+      "hint": "Enter below your name and surname",
       "label": "What is your full name?",
       "name": "Fullname"
     },
@@ -16,7 +16,7 @@
       "name": "Dateofbirth"
     }
   ],
-  "heading": "Enter below the personal details of the applicant",
+  "heading": "Applicant's personal details",
   "sectionHeading": "Applicant's details",
   "url": "personalinformation"
 }

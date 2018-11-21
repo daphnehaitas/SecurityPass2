@@ -8,7 +8,7 @@
       "label": "Name of the person",
       "name": "nameofpeople",
       "repeatable": true,
-      "repeatableHeading": "What are the people you are visiting today?",
+      "repeatableHeading": "Who are you visiting today?",
       "repeatableLede": "Please list here the full name of all the people you will be visiting today"
     }
   ],

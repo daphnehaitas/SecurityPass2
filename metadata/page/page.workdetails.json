@@ -3,57 +3,26 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.workdetails--text.Workemail",
       "_type": "text",
       "label": "What is your work email address?",
       "name": "Workemail"
     },
     {
-      "_id": "page.workdetails--number.Worktelephone",
-      "_type": "number",
-      "errors": {
-        "minimum": {
-          "summary": "You need an 10-digit number, starting with 1 or 7"
-        }
-      },
-      "hint": "Please don't type the digit 0",
+      "_id": "page.workdetails--text.input_auto__1",
+      "_type": "text",
       "label": "What is your work telephone number?",
-      "name": "Worktelephone",
+      "name": "input_auto__1",
+      "show": true,
       "validation": {
-        "maximum": 9999999999,
-        "minimum": 999999999
-      }
-    },
-    {
-      "_id": "page.workdetails--select.Jobtitle",
-      "_type": "select",
-      "items": [
-        {
-          "_id": "page.workdetails--select.Jobtitle--option",
-          "_type": "option",
-          "show": true,
-          "value": "UXresearcher"
-        },
-        {
-          "_id": "page.workdetails--select.Jobtitle--option--2",
-          "_type": "option",
-          "value": "uxdesign"
-        },
-        {
-          "_id": "page.workdetails--select.Jobtitle--option--3",
-          "_type": "option",
-          "value": "developer"
-        },
-        {
-          "_id": "page.workdetails--select.Jobtitle--option--4",
-          "_type": "option"
-        }
-      ],
-      "label": "What is your job title?",
-      "name": "Jobtitle",
-      "validation": {
-        "required": false
-      }
+        "maxLength": 11,
+        "minLength": 9
+      },
+      "widthClassInput": "one-third"
     }
   ],
   "heading": "Enter below the work details of the applicant",

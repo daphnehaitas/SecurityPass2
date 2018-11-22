@@ -5,18 +5,18 @@
     {
       "_id": "page.personalinformation--text.Fullname",
       "_type": "text",
-      "hint": "Enter below your name and surname",
-      "label": "What is your full name?",
+      "label": "Full name",
       "name": "Fullname"
     },
     {
       "_id": "page.personalinformation--date.Dateofbirth",
       "_type": "date",
+      "hint": "For example, 31 3 1980",
       "label": "What is your date of birth?",
       "name": "Dateofbirth"
     }
   ],
-  "heading": "Applicant's personal details",
+  "heading": "Personal details",
   "sectionHeading": "Applicant's details",
   "url": "personalinformation"
 }

@@ -5,7 +5,7 @@
     {
       "_id": "page.nameofpeople--text.nameofpeople",
       "_type": "text",
-      "label": "Name of the person",
+      "label": "Full name",
       "name": "nameofpeople",
       "repeatable": true,
       "repeatableHeading": "Who are you visiting today?",

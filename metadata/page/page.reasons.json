@@ -9,13 +9,13 @@
         {
           "_id": "page.reasons--radios.reasons--radio.perm",
           "_type": "radio",
-          "label": "I am permanent staff/ fixed term contract",
+          "label": "Permanent staff/fixed term contract",
           "value": "perm"
         },
         {
           "_id": "page.reasons--radios.reasons--radio.Contractor",
           "_type": "radio",
-          "label": "I am a contractor",
+          "label": "Contractor",
           "value": "Contractor"
         },
         {
@@ -27,7 +27,7 @@
             "label": "What is the reason for your visit?",
             "name": "visitorss"
           },
-          "label": "I am a visitor",
+          "label": "Visitor",
           "value": "visitor"
         }
       ],

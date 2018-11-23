@@ -10,7 +10,10 @@
       "_id": "page.workdetails--text.Workemail",
       "_type": "text",
       "label": "What is your work email address?",
-      "name": "Workemail"
+      "name": "Workemail",
+      "validation": {
+        "required": false
+      }
     },
     {
       "_id": "page.workdetails--text.input_auto__1",

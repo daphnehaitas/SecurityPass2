@@ -12,7 +12,7 @@
       "label": "What is your work email address?",
       "name": "Workemail",
       "validation": {
-        "required": false
+        "required": true
       }
     },
     {
@@ -23,7 +23,8 @@
       "show": true,
       "validation": {
         "maxLength": 11,
-        "minLength": 9
+        "minLength": 9,
+        "required": false
       },
       "widthClassInput": "one-third"
     }

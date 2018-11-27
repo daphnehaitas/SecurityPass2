@@ -5,7 +5,7 @@
   "emailInputNameUser": "email",
   "emailSubjectUser": "Security Pass completed",
   "emailTemplateTeam": "This is another form submitted for Security Pass",
-  "name": "Security Pass",
+  "name": "Security Pass_User research",
   "phase": "alpha",
   "phaseText": "Service phase text goes here",
   "title": "Security Pass application"
